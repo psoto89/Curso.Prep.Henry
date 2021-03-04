@@ -1,0 +1,5 @@
+Variables = Las variables son valores que le damos a cualquier tipo de datos y que que queremos que queden almacenado dentro ese nombre de la variable que asignamos
+Strings = Los Strings son Conjuntos de letras o palabras encerrados en unas comilas "Esto es una Strings"
+Funciones = (argumentos, return) Las funciones son lineas de codigos o ordenes que queremos que se ejecuten de acuerdo a ciertos paramtros que nosotros les indicamos
+Declaraciones if = Las declaraciones IF son condiciones que lo ponemos a nuestroas ordenes. Es decir que ejecute una cantidad de pasos de acuerdo a ciertas guias o ordenes.
+Valores booleanos (true, false) = Son valores que solo pueden ser verdaderos o falsos no se puede otro tipo de respuesta 
